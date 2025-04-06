@@ -1,27 +1,54 @@
-# ImageGallery
+# 📸 ImageGallery
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
+This is a **mini image gallery app** built with **Angular** and styled using **Tailwind CSS**. Although it’s a small project, I used it as an opportunity to sharpen my Angular skills — focusing on **mobile-first design** and **reusable components**. Yes, Angular might feel like overkill here, but hey, it’s all about learning and pushing boundaries! 💪
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Getting Started
 
-## Code scaffolding
+### 🖥 Development Server
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run the following command to start the dev server:
 
-## Build
+```bash
+ng serve
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Then navigate to [http://localhost:4200/](http://localhost:4200/). The app will automatically reload if you change any source files.
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🛠 Build
 
-## Running end-to-end tests
+To build the project for production, run:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+ng build
+```
 
-## Further help
+The build artifacts will be stored in the `dist/` directory.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+---
+
+## 🙋‍♂️ Further Help
+
+Need more help with Angular CLI? Use:
+
+```bash
+ng help
+```
+
+Or check out the official [Angular CLI documentation](https://angular.io/cli).
+
+---
+
+## 💡 What I Practiced
+
+- 🔁 Creating and using **reusable components**
+- 📱 Designing with a **mobile-first approach**
+- 🎨 Styling with **Tailwind CSS**
+- 🧱 Structuring a project using **Angular best practices**
+
+---
+
+Thanks for checking out this project! ✨
