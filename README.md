@@ -2,6 +2,8 @@
 
 This is a **mini image gallery app** built with **Angular** and styled using **Tailwind CSS**. Although it’s a small project, I used it as an opportunity to sharpen my Angular skills — focusing on **mobile-first design** and **reusable components**. Yes, Angular might feel like overkill here, but hey, it’s all about learning and pushing boundaries! 💪
 
+🔗 **Live Demo**: [tailwind-image-gallery-alpha.vercel.app](https://tailwind-image-gallery-alpha.vercel.app/)
+
 ---
 
 ## 🚀 Getting Started
